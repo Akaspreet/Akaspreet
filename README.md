@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Akaspreet</h1>
 <h3 align="center">I am committed to learning and self- development so that I can consistently achieve better results and have been able to deliver a consistent approach throughout a challenging period of development.</h3>
 
-img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🔭 I’m currently working on [Vechile Detection](https://github.com/Akaspreet/Vechile-Detection)
 
