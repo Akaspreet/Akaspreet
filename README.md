@@ -8,7 +8,8 @@
 
 - 📫 How to reach me **akshpreet2002@gmail.com and aakaspreet_be20@thapar.edu**
 
-img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207..."
+![programmer](https://user-images.githubusercontent.com/72460920/184429072-7eff42b6-b912-4ed6-8f4e-be5e6f13919c.gif)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
