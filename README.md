@@ -2,8 +2,7 @@
 <h3 align="center">I am committed to learning and self- development so that I can consistently achieve better results and have been able to deliver a consistent approach throughout a challenging period of development.</h3>
 
 
-- 🔭 I’m currently working on **Vechile Detection**
-
+- 🔭 I’m currently working on [Vechile Detection](https://github.com/Akaspreet/Vechile-Detection)
 - 🌱 I’m currently learning **Python, Machine Learning**
 
 - 📫 How to reach me **akshpreet2002@gmail.com and aakaspreet_be20@thapar.edu**
