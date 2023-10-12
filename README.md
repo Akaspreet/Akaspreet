@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Akaspreet</h1>
-<h3 align="center">I am committed to learning and self- development so that I can consistently achieve better results and have been able to deliver a consistent approach throughout a challenging period of development.</h3>
+<h3 align="center">Passionate software developer crafting elegant solutions to empower users and drive innovation. With a strong foundation in computer science and lifelong learning, I tackle challenges, create transformative experiences, and ensure code scalability. Committed to impactful applications that enhance lives, I thrive in collaboration and effective communication, bridging the gap between technical and non-technical teams.</h3>
 
 
-- 🔭 I’m currently working on [Vehicle Detection](https://github.com/Akaspreet/Vechile-Detection)
-- 🌱 I’m currently learning **Python, Machine Learning**
+- 🔭 I’m currently working on [Traffix: Intelligent Traffic Control Solution](https://github.com/Akaspreet/Vechile-Detection)
+- 🌱 I’m currently learning **ReactJS**
 
-- 📫 How to reach me **akshpreet2002@gmail.com and aakaspreet_be20@thapar.edu**
+- 📫 How to reach me **akshpreet2002@gmail.com, mymail012002@gmail.com and aakaspreet_be20@thapar.edu**
 
 ![programmer](https://user-images.githubusercontent.com/72460920/184429072-7eff42b6-b912-4ed6-8f4e-be5e6f13919c.gif)
 
@@ -14,7 +14,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://github.com/akaspreet?tab=repositories" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://github.com/akaspreet?tab=repositories" height="30" width="40" /></a>
 <a href="https://instagram.com/akshpreet_singh2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akshpreet_singh2002" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/akaspreet2002" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="akaspreet2002" height="30" width="40" /></a>
+
 <a href="https://www.leetcode.com/aksh_2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aksh_2002" height="30" width="40" /></a>
 </p>
 
