@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on [Traffix: Intelligent Traffic Control Solution]
 - 🌱 I’m currently learning **ReactJS**
 
-- 📫 How to reach me **akshpreet2002@gmail.com, mymail012002@gmail.com and aakaspreet_be20@thapar.edu**
+- 📫 How to reach me **akshpreet2002@gmail.com and aakaspreet_be20@thapar.edu**
 
 ![programmer](https://user-images.githubusercontent.com/72460920/184429072-7eff42b6-b912-4ed6-8f4e-be5e6f13919c.gif)
 
