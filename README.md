@@ -2,7 +2,7 @@
 <h3 align="center">Passionate software developer crafting elegant solutions to empower users and drive innovation. With a strong foundation in computer science and lifelong learning, I tackle challenges, create transformative experiences, and ensure code scalability. Committed to impactful applications that enhance lives, I thrive in collaboration and effective communication, bridging the gap between technical and non-technical teams.</h3>
 
 
-- 🔭 I’m currently working on [Traffix: Intelligent Traffic Control Solution](https://github.com/Akaspreet/Vechile-Detection)
+- 🔭 I’m currently working on [Traffix: Intelligent Traffic Control Solution]
 - 🌱 I’m currently learning **ReactJS**
 
 - 📫 How to reach me **akshpreet2002@gmail.com, mymail012002@gmail.com and aakaspreet_be20@thapar.edu**
