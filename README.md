@@ -1,19 +1,22 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Akaspreet!;" />
 </h1>
-
-- Languages: Proficient in C, C++, Python, HTML, CSS, JavaScript
-- Databases: Experienced in working with MySQL, SQL, and MongoDB
-- Data Science: Skilled in Numpy, Pandas, and Matplotlib
-- Machine Learning: Proficient in Tensorflow, YOLO (You Only Look Once), and OpenCV
-- Automation: Experienced in Pyautogui
-
-- 🔭 I’m currently working on **Traffix: Intelligent Traffic Control Solution**
-
-- 📫 How to reach me **akshpreet2002@gmail.com**
-
-![programmer](https://user-images.githubusercontent.com/72460920/184429072-7eff42b6-b912-4ed6-8f4e-be5e6f13919c.gif)
-
+<div style="display:flex;">
+<div>
+<ul align="left" style="width:50%; display:inline;">
+    <li>Languages: Proficient in C, C++, Python, HTML, CSS, JavaScript</li>
+<li>Databases: Experienced in working with MySQL, SQL, and MongoDB</li>
+<li>Data Science: Skilled in Numpy, Pandas, and Matplotlib</li>
+<li>Machine Learning: Proficient in Tensorflow, YOLO (You Only Look Once), and OpenCV</li>
+<li>Automation: Experienced in Pyautogui</li>
+<li>🔭 I’m currently working on **Traffix: Intelligent Traffic Control Solution**</li>
+<li>📫 How to reach me **akshpreet2002@gmail.com**</li>
+    </ul>
+  </div>
+<div>
+<img align="right" src="https://user-images.githubusercontent.com/72460920/184429072-7eff42b6-b912-4ed6-8f4e-be5e6f13919c.gif" style="width:400px;"/>
+</div>
+</div>
 <div align="center"> 
   <a href="mailto:akshpreet2002@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
