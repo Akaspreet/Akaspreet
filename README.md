@@ -4,13 +4,13 @@
 <div style="display:flex;">
 <div>
 <ul align="left" style="width:50%; display:inline;">
-    <li>Languages: Proficient in C, C++, Python, HTML, CSS, JavaScript</li>
-<li>Databases: Experienced in working with MySQL, SQL, and MongoDB</li>
-<li>Data Science: Skilled in Numpy, Pandas, and Matplotlib</li>
-<li>Machine Learning: Proficient in Tensorflow, YOLO (You Only Look Once), and OpenCV</li>
-<li>Automation: Experienced in Pyautogui</li>
-<li>🔭 I’m currently working on **Traffix: Intelligent Traffic Control Solution**</li>
-<li>📫 How to reach me **akshpreet2002@gmail.com**</li>
+    <li><strong>Languages:</strong> Proficient in C, C++, Python, HTML, CSS, JavaScript</li>
+<li><strong>Databases:</strong> Experienced in working with MySQL, SQL, and MongoDB</li>
+<li><strong>Data Science:</strong> Skilled in Numpy, Pandas, and Matplotlib</li>
+<li><strong>Machine Learning:</strong> Proficient in Tensorflow, YOLO (You Only Look Once), and OpenCV</li>
+<li><strong>Automation:</strong> Experienced in Pyautogui</li>
+<li>🔭 I’m currently working on  <strong>Traffix: Intelligent Traffic Control Solution</strong>  </li>
+<li>📫 How to reach me  <strong>akshpreet2002@gmail.com</strong> </li>
     </ul>
   </div>
 <div>
