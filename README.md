@@ -1,7 +1,12 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Akaspreet!;" />
 </h1>
-<h3 align="center">Passionate software developer crafting elegant solutions to empower users and drive innovation. With a strong foundation in computer science and lifelong learning, I tackle challenges, create transformative experiences, and ensure code scalability. Committed to impactful applications that enhance lives, I thrive in collaboration and effective communication, bridging the gap between technical and non-technical teams.</h3>
+
+- Languages: Proficient in C, C++, Python, HTML, CSS, JavaScript
+- Databases: Experienced in working with MySQL, SQL, and MongoDB
+- Data Science: Skilled in Numpy, Pandas, and Matplotlib
+- Machine Learning: Proficient in Tensorflow, YOLO (You Only Look Once), and OpenCV
+- Automation: Experienced in Pyautogui
 
 - 🔭 I’m currently working on **Traffix: Intelligent Traffic Control Solution**
 
