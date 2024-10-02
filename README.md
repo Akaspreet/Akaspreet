@@ -4,12 +4,14 @@
 <div style="display:flex;">
 <div>
 <ul align="left" style="width:50%; display:inline;">
-    <li><strong>Languages:</strong> Proficient in C, C++, Python, HTML, CSS, JavaScript</li>
-<li><strong>Databases:</strong> Experienced in working with MySQL, SQL, and MongoDB</li>
-<li><strong>Data Science:</strong> Skilled in Numpy, Pandas, and Matplotlib</li>
-<li><strong>Machine Learning:</strong> Proficient in Tensorflow, YOLO (You Only Look Once), and OpenCV</li>
-<li><strong>Automation:</strong> Experienced in Pyautogui</li>
-<li>🔭 I’m currently working on  <strong>Traffix: Intelligent Traffic Control Solution</strong>  </li>
+    <li><strong>Languages:</strong> Proficient in C, C++, Python, HTML, CSS, JavaScript, Bootstrap, NodeJS, Express</li>
+<li><strong>Databases:</strong> Experienced in working with MySQL, SQL, PostgreSQL and MongoDB</li>
+<li><strong>Libraries and Tools:</strong> Skilled in Numpy, Pandas, Matplotlib, TensorFlow, YOLO, PyautoGUI, OpenCV</li>
+<li><strong>AI Technologies:</strong> Proficient in Machine Learning, Deep Learning, Computer Vision, Object Detection Localization, Neural Networks, Generative AI</li>
+<li><strong>EDA(Visualization):</strong> Plotly, Matplotlib, Seaborn</li>
+<li><strong>IT Constructs:</strong> Data Structure and Algorithms, Operating System, Database Management System, OOPS</li>
+<li><strong>Version Control:</strong> Bitbucket, Git, GitHub</li>
+<li>🔭 I’m currently working on  <strong>Transformers, LLMs, Generative AI.</strong>  </li>
 <li>📫 How to reach me  <strong>akshpreet2002@gmail.com</strong> </li>
     </ul>
   </div>
