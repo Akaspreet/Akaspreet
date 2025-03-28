@@ -4,14 +4,18 @@
 <div style="display:flex;">
 <div>
 <ul align="left" style="width:50%; display:inline;">
-    <li><strong>Languages:</strong> Proficient in C, C++, Python, HTML, CSS, JavaScript, Bootstrap, NodeJS, Express</li>
-<li><strong>Databases:</strong> Experienced in working with MySQL, SQL, PostgreSQL and MongoDB</li>
-<li><strong>Libraries and Tools:</strong> Skilled in Numpy, Pandas, Matplotlib, TensorFlow, YOLO, PyautoGUI, OpenCV</li>
-<li><strong>AI Technologies:</strong> Proficient in Machine Learning, Deep Learning, Computer Vision, Object Detection Localization, Neural Networks, Generative AI</li>
-<li><strong>EDA(Visualization):</strong> Plotly, Matplotlib, Seaborn</li>
+    <li><strong>Languages:</strong> Proficient in C, C++, Python, SQL</li>
+<li><strong>ML/AI Frameworks:</strong> PyTorch, Langchain, Langgraph, Langflow, OpenCV</li>
+<li><strong>Vector Databases:</strong> Milvus(Standalone), Weaviate, FAISS, Elasticsearch</li>
+<li><strong>Data Processing:</strong> Pandas, Matplotlib, Plotly, Scikit-learn</li>
+<li><strong>Web Development:</strong> Flask, FastAPI, Bootstrap, HTML, CSS, JavaScript(Basic)</li>
+<li><strong>Database:</strong> MySQL, SQLite, MongoDB, Database Management Systems</li>
+<li><strong>Version Control:</strong> Git, Github, Bitbucket</li>
 <li><strong>IT Constructs:</strong> Data Structure and Algorithms, Operating System, Database Management System, OOPS</li>
-<li><strong>Version Control:</strong> Bitbucket, Git, GitHub</li>
-<li>🔭 I’m currently working on  <strong>Transformers, LLMs, Generative AI.</strong>  </li>
+<li><strong>Operating Systems:</strong> Windows, Linux(Ubuntu)</li>
+<li><strong>AI/ML:</strong> machine Learning, Natural Language Processing, Computer Vision, Generative AI, Object Detection and Localization, RAG</li>
+<li><strong>Professional Skills:</strong> Analytical Thinking, Technical Leadership, Cross-functional Collaboration, Project Management</li>
+<li>🔭 I’m currently working on  <strong>Transformers, LLMs, Generative AI, Agentic AI.</strong>  </li>
 <li>📫 How to reach me  <strong>akshpreet2002@gmail.com</strong> </li>
     </ul>
   </div>
